@@ -1,4 +1,4 @@
-# bank_application
+# Registration using shared preferences
 
 A new Flutter project.
 
