@@ -1,16 +1,6 @@
 # Registration using shared preferences
 
-A new Flutter project.
+<img src="https://github.com/Muneef-Nk/registration-shared-preferences/assets/92105703/b711086c-0cbd-4d0b-a12e-61b1d20d544d" width="200" height="400"/>
+<img src="https://github.com/Muneef-Nk/registration-shared-preferences/assets/92105703/eec9b2de-d7db-491d-b0f9-b27554efc880" width="200" height="400"/>
+<img src="https://github.com/Muneef-Nk/registration-shared-preferences/assets/92105703/b5222ec5-6725-44a8-915a-5e90961c89bc" width="200" height="400"/>
 
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
